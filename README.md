@@ -12,9 +12,7 @@
 🥷🏻 About Me
 
 ⚙️ RMUTL Computer Engineering Student
-
 🎸 Bass Guitar Player
-
 👾 Pro Player MLBB
 
 ⸻
@@ -22,21 +20,19 @@
 🎧 Music
 
 🎸 Favorite Instrument : Bass Guitar
-
 🎵 Genres : Rock • Pop • Jazz
-
 🎯 Current Mission : Become a Better Engineer and Musician
 
 ⸻
 
+💸 My business
+🥁 Musical Instrument Manufacturer
+🎧 Music Label Owner
+
 🎬 Favorite Anime
-
 🎸 Bocchi the Rock!
-
 🥷🏻 Naruto
-
 🐸 Pokémon
-
 🕵🏻 Detective Conan
 
 ⸻
@@ -51,9 +47,7 @@
 
 
 📱 Connect With Me
-
 📷 Instagram : @your_instagram
-
 🎮 Discord : your_discord
 
 ⸻
