@@ -1,16 +1,63 @@
-## Hi there 👋
+🟣 nickbabybigboy
 
-<!--
-**nickbabybigboy/nickbabybigboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>⚙️ Computer Engineering • 🎸 Bassist • 👾 Gamer</b>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nickbabybigboy&label=Profile%20Views&color=6f42c1&style=for-the-badge" alt="Profile Views"/>
+</p>
 
-Here are some ideas to get you started:
+⸻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🥷🏻 About Me
+
+⚙️ RMUTL Computer Engineering Student
+
+🎸 Bass Guitar Player
+
+👾 Pro Player MLBB
+
+⸻
+
+🎧 Music
+
+🎸 Favorite Instrument : Bass Guitar
+
+🎵 Genres : Rock • Pop • Jazz
+
+🎯 Current Mission : Become a Better Engineer and Musician
+
+⸻
+
+🎬 Favorite Anime
+
+🎸 Bocchi the Rock!
+
+🥷🏻 Naruto
+
+🐸 Pokémon
+
+🕵🏻 Detective Conan
+
+⸻
+
+🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,github" />
+</p>
+
+⸻
+
+
+📱 Connect With Me
+
+📷 Instagram : @your_instagram
+
+🎮 Discord : your_discord
+
+⸻
+
+<p align="center">
+  🎸 Low Frequency Enjoyer
+</p>
