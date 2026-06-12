@@ -47,8 +47,8 @@
 
 
 📱 Connect With Me
-📷 Instagram : @your_instagram
-🎮 Discord : your_discord
+📷 Instagram : @nxckdesu
+🎮 Discord : nongnickengjaaa_93059
 
 ⸻
 
