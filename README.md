@@ -11,16 +11,16 @@
 
 🥷🏻 About Me
 
-⚙️ RMUTL Computer Engineering Student
-🎸 Bass Guitar Player
-👾 Pro Player MLBB
+⚙️ RMUTL Computer Engineering Student.
+🎸 Bass Guitar Player.
+👾 Pro Player MLBB.
 
 ⸻
 
-🎧 Music
+🎧 Music.
 
-🎸 Favorite Instrument : Bass Guitar
-🎵 Genres : Rock • Pop • Jazz
+🎸 Favorite Instrument : Bass Guitar.
+🎵 Genres : Rock • Pop • Jazz.
 🎯 Current Mission : Become a Better Engineer and Musician
 
 ⸻
